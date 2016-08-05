@@ -7,34 +7,34 @@
             "description": "Fireworks intended for recreational use during holiday celebrations"
         },
         {
-            "id": 0,
+            "id": 1,
             "category": 0,
-            "name": "personal",
-            "description": "Fireworks intended for recreational use during holiday celebrations"
+            "name": "professional",
+            "description": "Fireworks intended for professional use during events"
         },
         {
-            "id": 0,
+            "id": 2,
             "category": 0,
-            "name": "personal",
-            "description": "Fireworks intended for recreational use during holiday celebrations"
+            "name": "novelty",
+            "description": "Fireworks intended for recreational use, kid friendly"
         },
         {
-            "id": 0,
-            "category": 0,
-            "name": "personal",
-            "description": "Fireworks intended for recreational use during holiday celebrations"
+            "id": 3,
+            "category": 1,
+            "name": "dynamite",
+            "description": "Explosives used for all purposes."
         },
         {
-            "id": 0,
-            "category": 0,
-            "name": "personal",
-            "description": "Fireworks intended for recreational use during holiday celebrations"
+            "id": 4,
+            "category": 1,
+            "name": "implosion",
+            "description": "Explosives used for real estate demolition, license is required for purchase."
         },
         {
-            "id": 0,
-            "category": 0,
-            "name": "personal",
-            "description": "Fireworks intended for recreational use during holiday celebrations"
+            "id": 5,
+            "category": 1,
+            "name": "explosion",
+            "description": "Explosives used for real estate demolition, license is required for purchase. Please know that these items are not intended for use within city limits."
         }
     ]
 }
