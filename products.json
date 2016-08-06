@@ -10,103 +10,103 @@
             "id": 1,
             "type": 0,
             "name": "Bottle Rockets",
-            "description": "Multi-colored sparklers that are safe for any age."
+            "description": "Smaller projectile fireworks, safe for children above 13 years of age.."
         },
         "roman_candles": {
             "id": 2,
             "type": 0,
             "name": "Roman Candles",
-            "description": "Multi-colored sparklers that are safe for any age."
+            "description": "Multi-colored projectile fireworks. Adult supervision is required"
         },
         "titanium_comets_shells": {
             "id": 3,
             "type": 1,
             "name": "Titanium Comets Shells",
-            "description": "Multi-colored sparklers that are safe for any age."
+            "description": "Multi-colored shelled professional grade fireworks."
         },
         "kamuro_swan_shells": {
             "id": 4,
             "type": 1,
             "name": "Kamuro Swan Shells",
-            "description": "Multi-colored sparklers that are safe for any age."
+            "description": "Golden colored shelled fireworks. These are professional grade fireworks intended for public productions."
         },
         "color_bombettes_shells": {
             "id": 5,
             "type": 1,
             "name": "Color Bombettes Shells",
-            "description": "Multi-colored sparklers that are safe for any age."
+            "description": "Red, white, and blue colored shelled fireworks. These are professional grade fireworks intended for public productions."
         },
-        "fairy_sparklers": {
+        "patriot_sparklers": {
             "id": 6,
             "type": 2,
-            "name": "Fairy Sparklers",
-            "description": "Multi-colored sparklers that are safe for any age."
+            "name": "Patriot Sparklers",
+            "description": "Red, white, and blue sparklers that are safe for any age."
         },
-        "fairy_sparklers": {
+        "ninja_sparklers": {
             "id": 7,
             "type": 2,
-            "name": "Fairy Sparklers",
-            "description": "Multi-colored sparklers that are safe for any age."
+            "name": "Ninja Sparklers",
+            "description": "Red and white sparklers that are safe for any age."
         },
-        "fairy_sparklers": {
+        "tank_firecrackers": {
             "id": 8,
             "type": 2,
-            "name": "Fairy Sparklers",
-            "description": "Multi-colored sparklers that are safe for any age."
+            "name": "Turbo Tank",
+            "description": "Small tank firecracker that is safe for children ages 10 and up. Adult supervision is required."
         },
-        "fairy_sparklers": {
+        "road_runner": {
             "id": 9,
             "type": 3,
-            "name": "Fairy Sparklers",
-            "description": "Multi-colored sparklers that are safe for any age."
+            "name": "Road Runner TNT",
+            "description": "10 pounds of the finest TNT made West of the Mississippi."
         },
-        "fairy_sparklers": {
+        "bugs_bunny": {
             "id": 10,
             "type": 3,
-            "name": "Fairy Sparklers",
-            "description": "Multi-colored sparklers that are safe for any age."
+            "name": "Bugs Bunny TNT",
+            "description": "50 pounds of the finest TNT made West of the Mississippi."
         },
-        "fairy_sparklers": {
+        "wile_e_coyote": {
             "id": 11,
             "type": 3,
-            "name": "Fairy Sparklers",
-            "description": "Multi-colored sparklers that are safe for any age."
+            "name": "Wile E. Coyote TNT",
+            "description": "100 pounds of the finest TNT made West of the Mississippi."
         },
-        "fairy_sparklers": {
+        "gadget": {
             "id": 12,
             "type": 4,
-            "name": "Fairy Sparklers",
-            "description": "Multi-colored sparklers that are safe for any age."
+            "name": "The Gadget",
+            "description": "This is an implosion type atomic bomb first created by J. Robert Oppenheimer during World War II. Only the shell of this weapon remains."
         },
-        "fairy_sparklers": {
+        "fat_man": {
             "id": 13,
             "type": 4,
-            "name": "Fairy Sparklers",
-            "description": "Multi-colored sparklers that are safe for any age."
+            "name": "Fat Man",
+            "description": "This is an implosion type atomic bomb first created by J. Robert Oppenheimer during World War II. Later used in Hiroshima. Top-secret credentials are required to purchase this item."
         },
-        "fairy_sparklers": {
+        "little_boy": {
             "id": 14,
             "type": 4,
-            "name": "Fairy Sparklers",
-            "description": "Multi-colored sparklers that are safe for any age."
+            "name": "Little Boy",
+            "description": "This is an implosion type atomic bomb first created by J. Robert Oppenheimer during World War II. Later used in Nagasaki, the schematics only remain."
         },
-        "fairy_sparklers": {
+        "j_robert_oppenheimer": {
             "id": 15,
             "type": 5,
-            "name": "Fairy Sparklers",
-            "description": "Multi-colored sparklers that are safe for any age."
+            "name": "J. Robert Oppenheimer's Glasses",
+            "description": "These glasses were once worn by Dr. Oppenheimer during his time spent working for the Manhattan Project. Oppenheimer was wearing these glasses during his famous speech explaining the power of his project. 'Now I am become Death, the destroyer of worlds.'"
         },
-        "fairy_sparklers": {
+        "los_alamos_finnest": {
             "id": 16,
             "type": 5,
-            "name": "Fairy Sparklers",
-            "description": "Multi-colored sparklers that are safe for any age."
+            "name": "Lost Alamos Secret Laboratory Key",
+            "description": "This is a key stolen from a scientist to get entrance into the Los Alamos Secret Laboratory, home of Oppenheimer's Trinity Test."
         },
-        "fairy_sparklers": {
+        "alger_hiss_briefings": {
             "id": 17,
             "type": 5,
-            "name": "Fairy Sparklers",
-            "description": "Multi-colored sparklers that are safe for any age."
+            "name": "Alger Hiss' Briefcase",
+            "description": "This is a briefcase stolen from Alger Hiss immediately after his court date infront of the House Un-American Activities Committee. It is said that this briefcase still holds top secret Soviet secrets."
         }
     }]
 }
