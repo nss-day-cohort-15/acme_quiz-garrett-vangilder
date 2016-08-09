@@ -52,7 +52,7 @@ var xhrButtons = function () {
     $('.demolition').addClass('visible').removeClass('notshown')
     $('.fireworks').addClass('notShown').removeClass('visible')
     $('.products').addClass('visible').removeClass('notShown')
-    showFireworks(products)
+    showDemolition(products)
 
  })
 
@@ -99,35 +99,34 @@ var showFireworks = function(products) {
 
 
 
-//   var dynatmie = $('forDynamite');
-//   var implossion = $('forImplossion');
-//   var explosion = $('forExplosion');
+  var dynamite = '';
+  var implossion = '';
+  var explosion = '';
 
-// var showDemolition = function(products) {
-//     if (products[index].type === 3) {
-//       products.forEach (function () {
-//       dynatmie.append(
-//         `<div class="productCard">
-//         <h3>${products.name}</h3>
-//         <p>${products.description}</p></div>`)
-//       })
-//     } else if (products[index].type === 4) {
-//       products.forEach (function () {
-//       implossion.append(
-//         `<div class="productCard">
-//         <h3>${products.name}</h3>
-//         <p>${products.description}</p></div>`)
-//       })
-//     } else {
-//       products.forEach (function () {
-//       explosion.append(
-//         `<div class="productCard">
-//         <h3>${products.name}</h3>
-//         <p>${products.description}</p></div>`)
-//       })
-//     }
+var showDemolition = function(products) {
+  console.log('showDemolition starting', products)
+  for(key in products){
+    if (products[key].type === 3) {
+    console.log('working?',products[key].name)
+    dynamite +='<div class="productCard col-sm-4">';
+    dynamite += '<h3>' + products[key].name+ '</h3>'
+    dynamite +='<p>' + products[key].description+ '</p></div>'
+  } else if (products[key].type === 4) {
+    implossion +='<div class="productCard col-sm-4">';
+    implossion += '<h3>' + products[key].name+ '</h3>'
+    implossion +='<p>' + products[key].description+ '</p></div>'
+  } else if (products[key].type === 5) {
+    explosion +='<div class="productCard col-sm-4">';
+    explosion += '<h3>' + products[key].name+ '</h3>'
+    explosion +='<p>' + products[key].description+ '</p></div>'
+  }
+  }
+  console.log(dynamite)
+  $('.forDynamite').html(dynamite)
+  $('.forImplossion').html(implossion)
+  $('.forExplosion').html(explosion)
 
-// }
+}
 
 
 

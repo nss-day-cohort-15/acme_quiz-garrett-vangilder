@@ -20,9 +20,13 @@ h1 {
 
 .productCard {
   border: 2px black solid;
-  height: 150px;
-}
+/*  height: 150px;
+*/}
 
 .products:child {
-  margin-bottom: 2em;
+  margin-bottom: 10rem;
+}
+
+h2 {
+  margin-top: 2em;
 }
