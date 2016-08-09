@@ -28,10 +28,7 @@
       <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Products <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a class="fireWorksButton" href="#">Fireworks</a></li>
-            <li><a class="demolitionButton" href="#">Demolition</a></li>
-          </ul>
+          <ul class="dropdown-menu placeForCategories"></ul>
         </li>
       </ul>
     </div><!-- /.navbar-collapse -->
@@ -43,13 +40,14 @@
   <div class="landingPage">
     <h2 class="Title">Welcome to ACME Inc.</h2>
     <img src="http://www.factslides.com/imgs/atomic-bomb.jpg">
-    <p class="strong text-primary">The Primer Website for all things Explosive.</p>
+    <h3>Categories of Products</h3>
+    <p>The Primer Website for all things Explosive.</p>
   </div>
   <!-- END OF LANDING PAGE -->
-  <div class="products">
+  <div class="products notShown">
     <div class="personal notShown fireworks">
       <h2>Personal Use Fireworks</h2>
-      <p>Filer Text</p>
+      <p class='fpr '>Filer Text</p>
     </div>
     <div class="professional notShown fireworks">
       <h2>Professional Use Fireworks</h2>
@@ -75,7 +73,8 @@
   </div>
 </div>
 <script type="text/javascript" src="/bower_components/jquery/dist/jquery.min.js"></script>
-<script type="text/javascript" src="scripts.js"></script>
 <script type="text/javascript" src="/bower_components/bootstrap/js/dropdown.js"></script>
+<script type="text/javascript" src="scripts.js"></script>
+<script type="text/javascript" src="show.js"></script>
 </body>
 </html>
