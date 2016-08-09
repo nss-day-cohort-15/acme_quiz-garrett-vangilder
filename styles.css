@@ -17,3 +17,12 @@ h1 {
 .landingPage {
   text-align: center;
 }
+
+.productCard {
+  border: 2px black solid;
+  height: 150px;
+}
+
+.products:child {
+  margin-bottom: 2em;
+}
