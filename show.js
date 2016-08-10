@@ -7,7 +7,6 @@
   var professionalFireworks = " ";
   var noveltyFireworks = " ";
 
-
 acmeStore.showFireworks = function(products) {
   console.log('showFireworks starting', products)
   for(key in products){
