@@ -1,0 +1,21 @@
+{
+  "name": "acme_quiz-garrett-vangilder",
+  "homepage": "https://github.com/nss-day-cohort-15/acme_quiz-garrett-vangilder",
+  "authors": [
+    "Garrett Vangilder <garrett.vangilder@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7"
+  }
+}

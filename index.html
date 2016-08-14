@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ACME QUIZ</title>
+  <link rel="stylesheet" type="text/css" href="/bower_components/bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<div class="container">
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">ACME Inc.</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li><a class="home" href="#">Home</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Products <span class="caret"></span></a>
+          <ul class="dropdown-menu placeForCategories"></ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+  <div class="row">
+
+  <!-- LANDING PAGE -->
+  <div class="landingPage">
+    <h2 class="Title">Welcome to ACME Inc.</h2>
+    <img src="http://www.factslides.com/imgs/atomic-bomb.jpg">
+    <h3>Categories of Products</h3>
+    <p>The Primer Website for all things Explosive.</p>
+  </div>
+  <!-- END OF LANDING PAGE -->
+  <div class="products notShown">
+    <div class="personal notShown fireworks">
+      <h2>Personal Use Fireworks</h2>
+      <p class='forPersonal'></p>
+    </div>
+
+    <div class="professional notShown fireworks">
+      <h2>Professional Use Fireworks</h2>
+      <p class='forProfessional'></p>
+    </div>
+
+    <div class="Novelty notShown fireworks">
+      <h2>Novelty Fireworks</h2>
+      <p class='forNovelty'></p>
+    </div>
+
+    <div class="Dynamite notShown demolition">
+      <h2>Dynamite</h2>
+      <p class='forDynamite'>Filer Text</p>
+    </div>
+    <div class="Implossion notShown demolition">
+      <h2>Implosion-type Items</h2>
+      <p class='forImplossion'>Filer Text</p>
+    </div>
+    <div class="Explosion notShown demolition">
+      <h2>Explosion-type Items</h2>
+      <p class='forExplosion'>Filer Text</p>
+    </div>
+  </div>
+  </div>
+</div>
+<script type="text/javascript" src="/bower_components/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="/bower_components/bootstrap/js/dropdown.js"></script>
+<script type="text/javascript" src="scripts.js"></script>
+<script type="text/javascript" src="show.js"></script>
+</body>
+</html>

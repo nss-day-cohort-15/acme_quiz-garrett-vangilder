@@ -1,0 +1,112 @@
+{
+    "products": [{
+        "fairy_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+        "bottle_rockets": {
+            "id": 1,
+            "type": 0,
+            "name": "Bottle Rockets",
+            "description": "Smaller projectile fireworks, safe for children above 13 years of age.."
+        },
+        "roman_candles": {
+            "id": 2,
+            "type": 0,
+            "name": "Roman Candles",
+            "description": "Multi-colored projectile fireworks. Adult supervision is required"
+        },
+        "titanium_comets_shells": {
+            "id": 3,
+            "type": 1,
+            "name": "Titanium Comets Shells",
+            "description": "Multi-colored shelled professional grade fireworks."
+        },
+        "kamuro_swan_shells": {
+            "id": 4,
+            "type": 1,
+            "name": "Kamuro Swan Shells",
+            "description": "Golden colored shelled fireworks. These are professional grade fireworks intended for public productions."
+        },
+        "color_bombettes_shells": {
+            "id": 5,
+            "type": 1,
+            "name": "Color Bombettes Shells",
+            "description": "Red, white, and blue colored shelled fireworks. These are professional grade fireworks intended for public productions."
+        },
+        "patriot_sparklers": {
+            "id": 6,
+            "type": 2,
+            "name": "Patriot Sparklers",
+            "description": "Red, white, and blue sparklers that are safe for any age."
+        },
+        "ninja_sparklers": {
+            "id": 7,
+            "type": 2,
+            "name": "Ninja Sparklers",
+            "description": "Red and white sparklers that are safe for any age."
+        },
+        "tank_firecrackers": {
+            "id": 8,
+            "type": 2,
+            "name": "Turbo Tank",
+            "description": "Small tank firecracker that is safe for children ages 10 and up. Adult supervision is required."
+        },
+        "road_runner": {
+            "id": 9,
+            "type": 3,
+            "name": "Road Runner TNT",
+            "description": "10 pounds of the finest TNT made West of the Mississippi."
+        },
+        "bugs_bunny": {
+            "id": 10,
+            "type": 3,
+            "name": "Bugs Bunny TNT",
+            "description": "50 pounds of the finest TNT made West of the Mississippi."
+        },
+        "wile_e_coyote": {
+            "id": 11,
+            "type": 3,
+            "name": "Wile E. Coyote TNT",
+            "description": "100 pounds of the finest TNT made West of the Mississippi."
+        },
+        "gadget": {
+            "id": 12,
+            "type": 4,
+            "name": "The Gadget",
+            "description": "This is an implosion type atomic bomb first created by J. Robert Oppenheimer during World War II. Only the shell of this weapon remains."
+        },
+        "fat_man": {
+            "id": 13,
+            "type": 4,
+            "name": "Fat Man",
+            "description": "This is an implosion type atomic bomb first created by J. Robert Oppenheimer during World War II. Later used in Hiroshima. Top-secret credentials are required to purchase this item."
+        },
+        "little_boy": {
+            "id": 14,
+            "type": 4,
+            "name": "Little Boy",
+            "description": "This is an implosion type atomic bomb first created by J. Robert Oppenheimer during World War II. Later used in Nagasaki, the schematics only remain."
+        },
+        "j_robert_oppenheimer": {
+            "id": 15,
+            "type": 5,
+            "name": "J. Robert Oppenheimer's Glasses",
+            "description": "These glasses were once worn by Dr. Oppenheimer during his time spent working for the Manhattan Project. Oppenheimer was wearing these glasses during his famous speech explaining the power of his project."
+        },
+        "los_alamos_finnest": {
+            "id": 16,
+            "type": 5,
+            "name": "Los Alamos Secret Laboratory Key",
+            "description": "This is a key stolen from a scientist to get entrance into the Los Alamos Secret Laboratory, home of Oppenheimer's Trinity Test."
+        },
+        "alger_hiss_briefings": {
+            "id": 17,
+            "type": 5,
+            "name": "Alger Hiss' Briefcase",
+            "description": "This is a briefcase stolen from Alger Hiss immediately after his court date infront of the House Un-American Activities Committee. It is said that this briefcase still holds top secret Soviet secrets."
+        }
+    }]
+}

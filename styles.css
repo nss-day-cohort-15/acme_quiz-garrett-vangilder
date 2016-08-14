@@ -1,0 +1,32 @@
+body {
+  padding-top: 70px;
+}
+
+h1 {
+  color:tomato;
+}
+
+.notShown {
+  display: none;
+}
+
+.visible {
+  display: block;
+}
+
+.landingPage {
+  text-align: center;
+}
+
+.productCard {
+  border: 2px black solid;
+  height: 255px;
+}
+
+.products:child {
+  margin-bottom: 10rem;
+}
+
+h2 {
+  margin-top: 2em;
+}
